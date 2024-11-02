@@ -1,4 +1,4 @@
-| [Home Page](https://maitri-surti.github.io/maitri-surti-portfolio/) | [Visualizing government debt](https://maitri-surti.github.io/maitri-surti-portfolio/dataviz2) |
+| [Home Page](https://maitri-surti.github.io/maitri-surti-portfolio/) | [Visualizing Government Debt](https://maitri-surti.github.io/maitri-surti-portfolio/dataviz2) |
 
 # Assignment: Visualizing government debt using Tableau
 
