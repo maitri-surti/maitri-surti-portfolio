@@ -12,5 +12,5 @@ From the Telling Stories with Data course, I hope to learn about presenting the 
 # Portfolio
 Here's where my cool work will go!
 ## Assignment: [Data visualization critique #1](https://canvas.cmu.edu/courses/44031/assignments/771009)
-## Assignment: [Visualizing government debt using Tableau](https://github.com/maitri-surti/maitri-surti-portfolio/blob/main/dataviz2.md)
+## Assignment: [Visualizing government debt using Tableau]([title](dataviz2.md))
 ## Final Project
