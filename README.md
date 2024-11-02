@@ -1,3 +1,5 @@
+| [Home Page](https://maitri-surti.github.io/maitri-surti-portfolio/) | [Visualizing government debt](https://maitri-surti.github.io/maitri-surti-portfolio/dataviz2) |
+
 # maitri-surti-portfolio
 This is my public portfolio for Telling Stories with Data at CMU! Here, you'll find all my projects where data meets creativity. Dive in to explore my work.
 
@@ -11,6 +13,6 @@ From the Telling Stories with Data course, I hope to learn about presenting the 
 
 # Portfolio
 Here's where my cool work will go!
-## Assignment: [Data visualization critique #1](https://canvas.cmu.edu/courses/44031/assignments/771009)
+## Assignment: Data visualization critique #1
 ## Assignment: [Visualizing government debt using Tableau](https://maitri-surti.github.io/maitri-surti-portfolio/dataviz2)
 ## Final Project
