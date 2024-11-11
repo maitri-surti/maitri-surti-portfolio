@@ -41,8 +41,8 @@ As mentioned in the critique, I think that the map didn't do enough justice to t
 
 ## Step four: Test the solution
 
-### User 1 feedback
-While testing both of my sketches with the user, I noticed that they faced some difficulty in recognizing what exactly "Loan Originations" mean with respect to the visualization. To take this feedback into account, I would add an asterisk on the word "Loan Originations" and mention the exact definition as the end of the table for better clarity. 
+### User 1 feedback (student, mid 20's)
+While testing both of my sketches with the user, I noticed that they faced some difficulty in recognizing what exactly "Loan Originations" mean with respect to the visualization. To take this feedback into account, I would add an asterisk on the word "Loan Originations" and mention the exact definition as the end of the table for better clarity. One thing they found surprising is that public schools have the highest loan originations. They hadn't expected this because public schools are usually cheaper than private schools. To this, I had to clarify that this data viz does not take into account the population of the school. Since, public schools often tend to have a greater population of students, they have the highest loan originations. 
 
 ### User 2 feedback
 
