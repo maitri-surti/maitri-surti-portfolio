@@ -27,3 +27,16 @@ Education policy makers and government officials are the primary audience for th
 Evaluating the data visualization using Stephen Few’s “Data Visualization Effectiveness Profile” offers a structured, detailed approach for examining its strengths and areas for improvement, particularly regarding usefulness (8/10), completeness (6/10), perceptibility (5/10), truthfulness (7/10), intuitiveness (5/10), aesthetics (3/10), and engagement (6/10). I feel that it mostly covers all the necessary elements that would be useful in examining a data viz. I like how it takes into account the factor of engagement to depict how inspired is the audience to talk about that topic. 
 
 1 thing that I would change/recommend to this evaluation method is that a measure for contextual completeness should be included. This could address whether the visualization includes key supporting data or contextual elements needed for informed interpretation. For eg, the chart that I have chosen, does not have contextual data regarding the population of the university. Having a rating for contextual completeness would have been useful in this situation to draw specific conclusions. 
+
+## Step three: sketch out a solution
+
+### Sketching solution
+
+In my redesign of the original map, I chose to present the data in a table and pie chart format to improve readability and accessibility. The table organizes universities by state, listing their loan origination amounts, which simplifies comparisons across states without the need to interpret a color-coded map. This format allows for quick reference and is especially helpful for viewers interested in specific states or institutions. The pie chart illustrates the overall distribution of loan originations across different types of institutions (public, private nonprofit, and proprietary), which makes it easy to understand the general trend—such as public universities having the most loan originations—at a glance. 
+
+As mentioned in the critique, I think that the map didn't do enough justice to the northeastern states as those were very difficult and confusing to understand. Hence, I decided to get rid of the map entirely and instead put it all in a color coded table to make it easily readable and understandable by the users/vieweres. I also changed the color to gradients of green to make it easily distinguishable based on the originated loan amounts. Moreover, I also thought that the legend in the original data visualization was confusing as it tried to depict multiple aspect of the map (the type of institution as well as the $ in loan originations). For this reason, I decided to break the two aspects into two different graphs. The table would highlight the amount of loan origination in the university with most loan originations in each U.S state, while the pie chart would highlight the splitting by institution type to depict which type of school originates the most loan amount. The pie chart would help the policy makers make decisions easily by drawing important conlusions about which type of school originated the most loan amounts. 
+
+![image](https://github.com/user-attachments/assets/207be031-2992-487e-8de9-bdbe348b9947)
+![image](https://github.com/user-attachments/assets/69ffd849-f0f9-4409-a6d8-29eb1299b9e9)
+
+
