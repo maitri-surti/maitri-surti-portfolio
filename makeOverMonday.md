@@ -39,4 +39,10 @@ As mentioned in the critique, I think that the map didn't do enough justice to t
 ![image](https://github.com/user-attachments/assets/207be031-2992-487e-8de9-bdbe348b9947)
 ![image](https://github.com/user-attachments/assets/69ffd849-f0f9-4409-a6d8-29eb1299b9e9)
 
+## Step four: Test the solution
+
+### User 1 feedback
+While testing both of my sketches with the user, I noticed that they faced some difficulty in recognizing what exactly "Loan Originations" mean with respect to the visualization. To take this feedback into account, I would add an asterisk on the word "Loan Originations" and mention the exact definition as the end of the table for better clarity. 
+
+### User 2 feedback
 
