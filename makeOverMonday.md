@@ -3,7 +3,7 @@
 # Assignment: Critique by Design with Tableau (MakeoverMonday)
 
 ## Step one: choose a data visualization from MakeoverMonday
-[Source: ](https://howmuch.net/articles/university-with-the-most-student-loan-originations-in-every-state)
+[Source: What Schools Create the Most Student Loans in the U.S.?](https://howmuch.net/articles/university-with-the-most-student-loan-originations-in-every-state)
 
 ![image](https://github.com/user-attachments/assets/896cf5e2-3306-4fdf-834f-f0b2731b7b6f)
 
