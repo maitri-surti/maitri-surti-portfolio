@@ -15,4 +15,5 @@ From the Telling Stories with Data course, I hope to learn about presenting the 
 Here's where my cool work will go!
 ## Assignment: Data visualization critique #1
 ## Assignment: [Visualizing government debt using Tableau](https://maitri-surti.github.io/maitri-surti-portfolio/dataviz2)
+## Assignment: [Critique by Design with Tableau (MakeoverMonday)](https://maitri-surti.github.io/maitri-surti-portfolio/makeOverMonday)
 ## Final Project
