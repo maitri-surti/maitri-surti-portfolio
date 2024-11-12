@@ -3,7 +3,7 @@
 # Assignment: Critique by Design with Tableau (MakeoverMonday)
 
 ## Step one: choose a data visualization from MakeoverMonday
-[Data Viz Link](https://howmuch.net/articles/university-with-the-most-student-loan-originations-in-every-state)
+[Source: ](https://howmuch.net/articles/university-with-the-most-student-loan-originations-in-every-state)
 
 ![image](https://github.com/user-attachments/assets/896cf5e2-3306-4fdf-834f-f0b2731b7b6f)
 
@@ -45,4 +45,4 @@ As mentioned in the critique, I think that the map didn't do enough justice to t
 While testing both of my sketches with the user, I noticed that they faced some difficulty in recognizing what exactly "Loan Originations" mean with respect to the visualization. To take this feedback into account, I would add an asterisk on the word "Loan Originations" and mention the exact definition as the end of the table for better clarity. One thing they found surprising is that public schools have the highest loan originations. They hadn't expected this because public schools are usually cheaper than private schools. To this, I had to clarify that this data viz does not take into account the population of the school. Since, public schools often tend to have a greater population of students, they have the highest loan originations. 
 
 ### User 2 feedback
-
+This user suggested that maybe a horizontal bar graph would do more justice to compare the amount of loan originations of each university in every state. The bar chart would help the users easily visualize how large of a difference do various universities have when compared to one another. They also thought that the color choice of green color seemed somehow appropriate for the topic and were able to distinguish between various loan originations easily. This person found surprising that ASU topped the list with the greatest amount of loan originations. They had expected a private school (probably an ivy) to top the list.
