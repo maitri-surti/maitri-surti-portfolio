@@ -1,7 +1,7 @@
 # [maitri-surti-portfolio](https://maitri-surti.github.io/maitri-surti-portfolio/)
 This is my public portfolio for Telling Stories with Data at CMU! Here, you'll find all my projects where data meets creativity. Dive in to explore my work.
 
-| [Home Page](https://maitri-surti.github.io/maitri-surti-portfolio/) | [Visualizing Government Debt](https://maitri-surti.github.io/maitri-surti-portfolio/dataviz2) |
+| [Home Page](https://maitri-surti.github.io/maitri-surti-portfolio/) | [Visualizing Government Debt](https://maitri-surti.github.io/maitri-surti-portfolio/dataviz2) | [MakeOverMonday](https://maitri-surti.github.io/maitri-surti-portfolio/makeOverMonday)
 
 # About me
 👋 Hey, I am Maitri and my pronouns are she/her!
