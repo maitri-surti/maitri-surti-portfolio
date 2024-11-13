@@ -50,9 +50,12 @@ I tested my solution with 2 different users and got the following takeaways from
 - Add the definition of Loan Originations as it is not a very familiar term.
 
 ## Step five: Build your solution
+
+### Story to Tell
+
 After addressing user feedback, I redesigned the original map into a highlight table and a tree map for improved readability.
 
-The redesigned visualization, with a highlight table and tree map, paints a clear picture of where student loan originations are concentrated in the U.S. Surprisingly, it’s public universities—not private nonprofits—that account for the majority of student loans, even though private schools often have higher tuition costs. The highlight table allows for quick comparisons, showing that schools like Arizona State University and Pennsylvania State University generate some of the highest loan amounts.
+The redesigned visualization, with a highlight table and tree map, tells a story of where student loan originations are concentrated in the U.S. Surprisingly, it’s public universities—not private nonprofits—that account for the majority of student loans, even though private schools often have higher tuition costs. The highlight table allows for quick comparisons, showing that schools like Arizona State University and Pennsylvania State University generate some of the highest loan amounts.
 
 The tree map adds context by breaking down loan originations by institution type, with public universities taking up most of the visual space. Private nonprofit and proprietary schools are greyed out, making it easy to see that public schools are the main drivers of student debt. This focus on public institutions suggests that if we’re serious about tackling the student loan crisis, we need to start by taking a closer look at funding and loan policies for public universities, where loan burdens are heaviest.
 
@@ -65,6 +68,7 @@ The tree map adds context by breaking down loan originations by institution type
    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
 
 <div class='tableauPlaceholder' id='viz1731469754280' style='position: relative'><noscript><a href='#'><img alt='Public Universities Have the Most Student Loan Originations  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Tr&#47;TreeMap_17314694217960&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TreeMap_17314694217960&#47;Sheet2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Tr&#47;TreeMap_17314694217960&#47;Sheet2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
