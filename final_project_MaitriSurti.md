@@ -6,3 +6,14 @@ This project aims at exploring and visualizing the patterns and trends of faalit
 Through a series of data visualizations, this project will provide a data-driven story that uncovers key information, including which types of rides are most associated with fatalities and what safety measures could help reduce the risks. Finally, this project will aim at informing and reassuring roller coaster enthusiasts like myself by creating awareness and highlighting safety measures in the amusement park industry. 
 
 ### Project Structure
+
+- Introduction: The Thrill and the Fear
+- Background: Understanding the Scope and Rarity of Fatalities
+- Data Analysis: Key Factors Contributing to Amusement Park Fatalities
+- Visual Storytelling: Bringing the Data to Life
+- Solution and Insights: What Can Be Done to Improve Safety?
+- Conclusion: Key Takeaways and Call to Action
+
+### Story Arc
+### User Stories
+### Summary
