@@ -26,5 +26,12 @@ This section will focus on solutions, highlighting current safety measures and o
 I'll reflect on the importance of safety measures at amusement parks. This section will also have a call to action which will give visitors a place to make informed decisions. 
 
 ### Story Arc
+![WhatsApp Image 2024-11-15 at 16 05 37_3a975b29](https://github.com/user-attachments/assets/e41147e1-ea3a-4361-8117-fe17ff844c52)
+
 ### User Stories
+As an amusement park visitor, I want to understand the risks and safety measures associated with rides so that I can make informed decisions and enjoy a secure experience.
+
+I can do this by identifying high-risk rides and common causes, and learning practical safety tips to stay aware while visiting amusement parks.
+
 ### Summary
+Rare but severe amusement park fatalities raise safety concerns for visitors.
