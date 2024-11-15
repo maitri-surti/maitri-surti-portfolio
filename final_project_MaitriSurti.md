@@ -7,22 +7,23 @@ Through a series of data visualizations, this project will provide a data-driven
 
 ### Project Structure
 
-- Introduction: The Thrill and the Fear
-  Amusement parks often bring joy among visitors. I'll start the story by   
-  sharing my personal connection to roller coasters about how I love the 
-  thrill but am hesitated due to safety concerns. 
-- Background: Understanding the Scope and Rarity of Fatalities
-  The background will focus on the types of incidents that occur and 
-  establish why understanding these risks is important for the visitors and 
-  the park staff. 
-- Data Analysis: Key Factors Contributing to Amusement Park Fatalities
-  Here, I will dive into the data, exploring when and where the fatalities 
-  are most likely to occur, the rides that are most associated with such 
-  incidents, and the locations which are most affected. The goal is to find 
-  meaningful insights from the data. 
-- Visual Storytelling: Bringing the Data to Life
-- Solution and Insights: What Can Be Done to Improve Safety?
-- Conclusion: Key Takeaways and Call to Action
+#### Introduction: The Thrill and the Fear
+
+Amusement parks often bring joy among visitors. I'll start the story by sharing my personal connection to roller coasters about how I love the thrill but am hesitated due to safety concerns. 
+#### Background: Understanding the Scope and Rarity of Fatalities
+
+The background will focus on the types of incidents that occur and establish why understanding these risks is important for the visitors and the park staff. 
+#### Data Analysis: Key Factors Contributing to Amusement Park Fatalities
+
+Here, I will dive into the data, exploring when and where the fatalities are most likely to occur, the rides that are most associated with such incidents, and the locations which are most affected. The goal is to find meaningful insights from the data. 
+#### Visual Storytelling: Bringing the Data to Life
+
+Through visualization, I will try to make the data impactful. These data viz will allow users to explore the factors behind amusement park fatalities.
+#### Solution and Insights: What Can Be Done to Improve Safety?
+
+This section will focus on solutions, highlighting current safety measures and offering practical advice for both visitors and park operators. 
+#### Conclusion: Key Takeaways and Call to Action
+I'll reflect on the importance of safety measures at amusement parks. This section will also have a call to action which will give visitors a place to make informed decisions. 
 
 ### Story Arc
 ### User Stories
