@@ -8,8 +8,18 @@ Through a series of data visualizations, this project will provide a data-driven
 ### Project Structure
 
 - Introduction: The Thrill and the Fear
+  Amusement parks often bring joy among visitors. I'll start the story by   
+  sharing my personal connection to roller coasters about how I love the 
+  thrill but am hesitated due to safety concerns. 
 - Background: Understanding the Scope and Rarity of Fatalities
+  The background will focus on the types of incidents that occur and 
+  establish why understanding these risks is important for the visitors and 
+  the park staff. 
 - Data Analysis: Key Factors Contributing to Amusement Park Fatalities
+  Here, I will dive into the data, exploring when and where the fatalities 
+  are most likely to occur, the rides that are most associated with such 
+  incidents, and the locations which are most affected. The goal is to find 
+  meaningful insights from the data. 
 - Visual Storytelling: Bringing the Data to Life
 - Solution and Insights: What Can Be Done to Improve Safety?
 - Conclusion: Key Takeaways and Call to Action
