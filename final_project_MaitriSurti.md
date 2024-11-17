@@ -23,7 +23,7 @@ Here, I will dive into the data, exploring when and where the injuries are most 
 #### Visual Storytelling: Bringing the Data to Life
 
 Through visualization, I will try to make the data impactful and tell a story from the data to engage the audience.
-#### Solution and Insights: What Can Be Done to Improve Safety?
+#### Solution and Call to Action: What Can Be Done to Improve Safety?
 
 This section will focus on solutions, highlighting current safety measures and offering practical advice for both visitors and park operators. It will also have a call to action which will give visitors a place to make informed decisions. 
 
