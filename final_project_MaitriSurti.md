@@ -41,11 +41,12 @@ Rare but severe amusement park injuries raise safety concerns for visitors.
 ## Initial Sketches
 
 This graph shows the number of amusement park injuries in the U.S. over the years, peaking dramatically before steadily declining. The sharp drop suggests increased safety measures may have been implemented.
-![WhatsApp Image 2024-11-16 at 16 03 44_e76758aa](https://github.com/user-attachments/assets/1c127348-16ef-4b69-a481-ac9ca5b7061f)
+![WhatsApp Image 2024-11-17 at 16 20 17_91d43469](https://github.com/user-attachments/assets/0dc256ea-94a8-4d6b-88f4-2dd888ce817a)
 
 
 This bar chart highlights the distribution of amusement park injuries across U.S. states, with New Jersey and California appearing as the highest contributors. It emphasizes how regional factors might influence injury rates.
-![WhatsApp Image 2024-11-16 at 16 03 45_71b1d890](https://github.com/user-attachments/assets/bf9bcaaf-4174-4587-8109-30a144766aec)
+![WhatsApp Image 2024-11-17 at 16 20 18_03eb07a7](https://github.com/user-attachments/assets/7539be1d-9e79-40ff-ac63-c9c6f805f35e)
+
 
 This treemap highlights that roller coasters are responsible for the majority of injuries in U.S. amusement parks, followed by spinning and water rides. It underscores the thrill versus safety trade-off in different types of attractions.
 ![WhatsApp Image 2024-11-16 at 16 03 45_b2f6ed6e](https://github.com/user-attachments/assets/8c9cdb0f-28da-4c8d-a0e7-d08c375c2844)
