@@ -1,3 +1,7 @@
+| [Home Page](https://maitri-surti.github.io/maitri-surti-portfolio/) | [Visualizing Government Debt](https://maitri-surti.github.io/maitri-surti-portfolio/dataviz2) | [MakeOverMonday](https://maitri-surti.github.io/maitri-surti-portfolio/makeOverMonday) | [Final Project](https://maitri-surti.github.io/maitri-surti-portfolio/final_project_MaitriSurti) | 
+
+# Part I: Final project
+
 ## Outline
 
 ### High-Level Summary
@@ -21,9 +25,7 @@ Here, I will dive into the data, exploring when and where the injuries are most 
 Through visualization, I will try to make the data impactful. These data viz will allow users to explore the factors behind amusement park injuries.
 #### Solution and Insights: What Can Be Done to Improve Safety?
 
-This section will focus on solutions, highlighting current safety measures and offering practical advice for both visitors and park operators. 
-#### Conclusion: Key Takeaways and Call to Action
-I'll reflect on the importance of safety measures at amusement parks. This section will also have a call to action which will give visitors a place to make informed decisions. 
+This section will focus on solutions, highlighting current safety measures and offering practical advice for both visitors and park operators. It will also have a call to action which will give visitors a place to make informed decisions. 
 
 ### Story Arc
 ![WhatsApp Image 2024-11-15 at 16 05 37_3a975b29](https://github.com/user-attachments/assets/e41147e1-ea3a-4361-8117-fe17ff844c52)
@@ -37,15 +39,33 @@ I can do this by identifying high-risk rides and common causes, and learning pra
 Rare but severe amusement park injuries raise safety concerns for visitors.
 
 ## Initial Sketches
+
+This graph shows the number of amusement park injuries in the U.S. over the years, peaking dramatically before steadily declining. The sharp drop suggests increased safety measures may have been implemented.
 ![WhatsApp Image 2024-11-16 at 16 03 44_e76758aa](https://github.com/user-attachments/assets/1c127348-16ef-4b69-a481-ac9ca5b7061f)
+
+
+This bar chart highlights the distribution of amusement park injuries across U.S. states, with New Jersey and California appearing as the highest contributors. It emphasizes how regional factors might influence injury rates.
 ![WhatsApp Image 2024-11-16 at 16 03 45_71b1d890](https://github.com/user-attachments/assets/bf9bcaaf-4174-4587-8109-30a144766aec)
+
+This treemap highlights that roller coasters are responsible for the majority of injuries in U.S. amusement parks, followed by spinning and water rides. It underscores the thrill versus safety trade-off in different types of attractions.
 ![WhatsApp Image 2024-11-16 at 16 03 45_b2f6ed6e](https://github.com/user-attachments/assets/8c9cdb0f-28da-4c8d-a0e7-d08c375c2844)
+
+This treemap highlights that most number of accidents in amusement parks in the United States occur due to some sort of an operational error, followed by mechanical and employee errors. 
 ![WhatsApp Image 2024-11-16 at 16 03 47_51eb62db](https://github.com/user-attachments/assets/4c7d1356-1af2-42b5-b0ee-11c41753d40f)
 
 ## The Data
 
 The dataset on U.S. Amusement Park incidents is the primary data source for this project. This data source provides information about the incidents that take place at amusement parks in the U.S. It includes accident information like the location, type of ride, number of injuries, and causes of the injuries. 
-I plan on using this dataset to create meaningful visualizations that highlight insights like the distribution of incidents based on the location, accident trends over various years, and some of the main factors that contribute towards these incidents. 
+
+I plan on using this dataset to create meaningful visualizations that highlight insights like the distribution of incidents based on the location, accident trends over various years, and some of the main factors that contribute towards these incidents. These data viz insights will drive actionable recommendations to imrpove safety in amusement parks. 
+
+Source: [Roller coaster accidents. (2021, June 13). Kaggle. https://www.kaggle.com/datasets/stevenlasch/roller-coaster-accidents/data](https://www.kaggle.com/datasets/stevenlasch/roller-coaster-accidents/data)
+
+If additional datasets become relevant during the analysis, they will be integrated to provide a more robust understanding of the issue.
+
+## Method and medium
+For my final project, I’ll use Tableau to create interactive visualizations and Shorthand to build a compelling story around them. Tableau will help me present the data clearly, while Shorthand will bring it all together with a clean, engaging narrative. This combo will make the project both interactive and visually appealing.
+
 
 
 
