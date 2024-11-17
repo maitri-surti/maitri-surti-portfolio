@@ -22,7 +22,7 @@ The background will focus on the types of incidents that occur and establish why
 Here, I will dive into the data, exploring when and where the injuries are most likely to occur, the rides that are most associated with such incidents, and the locations which are most affected. The goal is to find meaningful insights from the data. 
 #### Visual Storytelling: Bringing the Data to Life
 
-Through visualization, I will try to make the data impactful. These data viz will allow users to explore the factors behind amusement park injuries.
+Through visualization, I will try to make the data impactful and tell a story from the data to engage the audience.
 #### Solution and Insights: What Can Be Done to Improve Safety?
 
 This section will focus on solutions, highlighting current safety measures and offering practical advice for both visitors and park operators. It will also have a call to action which will give visitors a place to make informed decisions. 
