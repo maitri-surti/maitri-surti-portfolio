@@ -35,3 +35,13 @@ I can do this by identifying high-risk rides and common causes, and learning pra
 
 ### Summary
 Rare but severe amusement park injuries raise safety concerns for visitors.
+
+## Initial Sketches
+![WhatsApp Image 2024-11-16 at 16 03 44_e76758aa](https://github.com/user-attachments/assets/1c127348-16ef-4b69-a481-ac9ca5b7061f)
+![WhatsApp Image 2024-11-16 at 16 03 45_71b1d890](https://github.com/user-attachments/assets/bf9bcaaf-4174-4587-8109-30a144766aec)
+![WhatsApp Image 2024-11-16 at 16 03 45_b2f6ed6e](https://github.com/user-attachments/assets/8c9cdb0f-28da-4c8d-a0e7-d08c375c2844)
+![WhatsApp Image 2024-11-16 at 16 03 47_51eb62db](https://github.com/user-attachments/assets/4c7d1356-1af2-42b5-b0ee-11c41753d40f)
+
+
+
+
