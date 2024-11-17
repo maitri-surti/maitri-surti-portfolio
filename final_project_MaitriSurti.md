@@ -42,6 +42,11 @@ Rare but severe amusement park injuries raise safety concerns for visitors.
 ![WhatsApp Image 2024-11-16 at 16 03 45_b2f6ed6e](https://github.com/user-attachments/assets/8c9cdb0f-28da-4c8d-a0e7-d08c375c2844)
 ![WhatsApp Image 2024-11-16 at 16 03 47_51eb62db](https://github.com/user-attachments/assets/4c7d1356-1af2-42b5-b0ee-11c41753d40f)
 
+## The Data
+
+The dataset on U.S. Amusement Park incidents is the primary data source for this project. This data source provides information about the incidents that take place at amusement parks in the U.S. It includes accident information like the location, type of ride, number of injuries, and causes of the injuries. 
+I plan on using this dataset to create meaningful visualizations that highlight insights like the distribution of incidents based on the location, accident trends over various years, and some of the main factors that contribute towards these incidents. 
+
 
 
 
