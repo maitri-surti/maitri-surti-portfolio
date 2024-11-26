@@ -10,6 +10,10 @@
 ### Target Audience
 My target audience are **young adults** who are thrill-seekers and often engage with high-intensity rides and **amusement park enthusiasts** who are regular visitors and may have opinions or experiences related to ride safety. 
 
+### Approach to Identifying Representative Individuals
+- Engage with users on platforms like TripAdvisor.
+- Utilize my immediate network who recently visited an amusement park.
+  
 ### Interview script
 
 | Goal                                     | Questions to Ask                                                                 |
