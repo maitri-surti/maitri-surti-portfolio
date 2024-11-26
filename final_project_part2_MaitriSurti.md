@@ -1,3 +1,5 @@
+| [Home Page](https://maitri-surti.github.io/maitri-surti-portfolio/) | [Visualizing Government Debt](https://maitri-surti.github.io/maitri-surti-portfolio/dataviz2) | [MakeOverMonday](https://maitri-surti.github.io/maitri-surti-portfolio/makeOverMonday) | [Final Project Part I](https://maitri-surti.github.io/maitri-surti-portfolio/final_project_MaitriSurti) | [Final Project Part II](https://maitri-surti.github.io/maitri-surti-portfolio/final_project_part2_MaitriSurti) |
+
 # Part II: Final Project
 
 ## Wireframes / storyboards
