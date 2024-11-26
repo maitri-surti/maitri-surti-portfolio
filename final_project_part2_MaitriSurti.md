@@ -20,7 +20,7 @@ My target audience are **young adults** who are thrill-seekers and often engage 
 ||How likely are you to assess the safety measures before visiting an amusement park after reading this?|
 
 ### Interview findings
-| Questions               | Interview 1 | Interview 2 | Interview 3 |
+| Questions               | Interview 1 (young adult, 20's) | Interview 2 (amusement park enthusiast, 20's) | Interview 3 ((young adult, 20's) |
 |-------------------------|--------------------------------|-------------|-------------|
 | Did the data visualizations about injuries in the amusement parks make information easier to understand? |The user found the visuals clear and loved the cards that highlight rides that cause the most injuries.|Interviewee felt the charts were engaging and they could easily make conclusions by looking at the data.|They really liked the bar chart and mentioned that they would now think twice before visiting an amusement park in New Jersey because of the highest number of injuries recorded there.|
 |Is there anything in particular that I should do differently to make the data more clear?|They suggested that I use more varied colors in the treemap because they had difficulty in distinguishing the color for 'operational error' and 'employee error'.|The user mentioned that I could maybe have some sort of an explaination about why there was a sudden hike in the number of injuries in the years 2000 and 2001.|The interviewee mentioned about the treemap being too big and them having to scroll to see the map in sections. They recommended to decrease the size of the treemap so that it becomes more clear and fits in the screen.|
