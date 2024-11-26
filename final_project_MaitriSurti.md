@@ -62,6 +62,8 @@ I plan on using this dataset to create meaningful visualizations that highlight 
 
 Source: [Roller coaster accidents. (2021, June 13). Kaggle. https://www.kaggle.com/datasets/stevenlasch/roller-coaster-accidents/data](https://www.kaggle.com/datasets/stevenlasch/roller-coaster-accidents/data)
 
+[how many Amusement Park are in United States. (n.d.). How many amusement parks are in United States - 2024 | poidata.io. How Many Amusement Park Are in United States.](https://www.poidata.io/report/amusement-park/united-states)
+
 If additional datasets become relevant during the analysis, they will be integrated to provide a more robust understanding of the issue.
 
 ## Method and medium
