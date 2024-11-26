@@ -13,8 +13,8 @@ My target audience are **young adults** who are thrill-seekers and often engage 
 ### Interview script
 | Goal | Questions to Ask |
 |------|------------------|
-|Understand audiences' thoughts on the graphs|Did the data visualizations about injuries in the amusement parks make information easier to understand?|
-||Is there anything in particular that I should do differently to make the data more clear?|
+| Understand audiences' thoughts on the graphs|Did the data visualizations about injuries in the amusement parks make information easier to understand? | 
+||Is there anything in particular that I should do differently to make the data more clear? |
 |Evaluate the storytelling aspect of the storyboard|While reading through the storyboard, were you able to follow the problem I am trying to solve here?|
 |Gauge if the design supports the call to action for safer amusement parks|Do you think the data visuals and designs support the message of improving safety at amusement parks?|
 ||How likely are you to assess the safety measures before visiting an amusement park after reading this?|
