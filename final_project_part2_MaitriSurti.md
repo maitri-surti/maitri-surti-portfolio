@@ -11,6 +11,7 @@
 My target audience are **young adults** who are thrill-seekers and often engage with high-intensity rides and **amusement park enthusiasts** who are regular visitors and may have opinions or experiences related to ride safety. 
 
 ### Interview script
+
 | Goal | Questions to Ask |
 |------|------------------|
 | Understand audiences' thoughts on the graphs|Did the data visualizations about injuries in the amusement parks make information easier to understand? | 
@@ -20,6 +21,7 @@ My target audience are **young adults** who are thrill-seekers and often engage 
 | How likely are you to assess the safety measures before visiting an amusement park after reading this? |
 
 ### Interview findings
+
 | Questions               | Interview 1 (young adult, 20's) | Interview 2 (amusement park enthusiast, 20's) | Interview 3 (young adult, 20's) |
 |------------------------- | -------------------------------- | ------------- |------------- |
 | Did the data visualizations about injuries in the amusement parks make information easier to understand? |The user found the visuals clear and loved the cards that highlight rides that cause the most injuries. | Interviewee felt the charts were engaging and they could easily make conclusions by looking at the data. | They really liked the bar chart and mentioned that they would now think twice before visiting an amusement park in New Jersey because of the highest number of injuries recorded there. |
@@ -29,6 +31,7 @@ My target audience are **young adults** who are thrill-seekers and often engage 
 | How likely are you to assess the safety measures before visiting an amusement park after reading this? | They are now more likely to research safety measures but mentioned that accessibility to this information is crucial. | They said they would be more cautious before visiting. | Felt motivated to assess safety but wanted a quick checklist to help them evaluate parks more easily. |
 
 ### Identified changes for Part III
+
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
 | The visuals were clear, and the cards highlighting risky rides were appreciated. However, some users struggled to differentiate certain colors in the treemap.|Use more varied and contrasting colors in the treemap. |
