@@ -21,11 +21,11 @@ Looking back on the final data story, I am happy with how everything came togeth
 ## References
 1.	Roller coaster accidents. (2021, June 13). Kaggle. https://www.kaggle.com/datasets/stevenlasch/roller-coaster-accidents/data
 
-2.	how many Amusement Park are in United States. (n.d.). How many amusement parks are in United States - 2024 | poidata.io. How Many Amusement Park Are in United States. https://www.poidata.io/report/amusement-park/united-states
+2.	how many Amusement Park are in United States. (n.d.). How many amusement parks are in United States - 2024, poidata.io. How Many Amusement Park Are in United States. https://www.poidata.io/report/amusement-park/united-states
 
 3.	Braksiek, R. J., & Roberts, D. J. (2002). Amusement park injuries and deaths. Annals of Emergency Medicine, 39(1), 65–72. https://doi.org/10.1067/mem.2002.120127
 
-4.	Pllc, N. S. (2022, August 19). Amusement park injuries: What you need to know | Personal injury. Napoli Shkolnik PLLC. https://www.napolilaw.com/en/article/what-you-need-to-know-about-amusement-park-injuries/
+4.	Pllc, N. S. (2022, August 19). Amusement park injuries: What you need to know, Personal injury. Napoli Shkolnik PLLC. https://www.napolilaw.com/en/article/what-you-need-to-know-about-amusement-park-injuries/
 
 5.	P21.Admin. (2024, October 17). Fun no More: Legal recourse for amusement park accidents. FVF Law: Injury & Wrongful Death. https://www.fvflawfirm.com/blog/fun-no-more-legal-recourse-for-amusement-park-accidents/
 
